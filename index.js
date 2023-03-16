@@ -10,4 +10,4 @@ app.use(bodyParser.json());
 app.get('/', standingsRoutes);
 
 app.all("*", (req, res) =>res.send("You've tried reaching a route that doesn't exist."));
-app.listen(process.env.PORT || PORT, () => console.log(`Listening on port ${port}`))
+app.listen(process.env.PORT || PORT, () => console.log(`Listening on port ${PORT}`))
