@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 export const getStandings = (req, res) => {
-    fs.readFile("./standings.json", (err, jsonString) => {
+    fs.readFile("./controller/standings.json", (err, jsonString) => {
         if (err) {
           console.log("File read failed:", err);
           return;
