@@ -12,6 +12,8 @@
                     "team": {
                         "id": 42,
                         "name": "Arsenal",
+                        "venue": "Emirates Stadium",
+                        "founded": 1886,
                         "logo": "https://media-1.api-sports.io/football/teams/42.png"
                     },
                     "points": 66,
@@ -338,6 +340,8 @@
                     "team": {
                         "id": 50,
                         "name": "Manchester City",
+                        "venue": "Etihad Stadium",
+                        "founded": 1880,
                         "logo": "https://media-2.api-sports.io/football/teams/50.png"
                     },
                     "points": 61,
@@ -383,6 +387,8 @@
                     "team": {
                         "id": 33,
                         "name": "Manchester United",
+                         "founded": 1878,
+                         "venue" : "Old Trafford",
                         "logo": "https://media-1.api-sports.io/football/teams/33.png"
                     },
                     "points": 50,
@@ -637,6 +643,8 @@
                     "team": {
                         "id": 47,
                         "name": "Tottenham",
+                        "founded": 1882,
+                        "venue": "Tottenham Hotspur Stadium",
                         "logo": "https://media.api-sports.io/football/teams/47.png"
                     },
                     "points": 48,
@@ -987,6 +995,8 @@
                     "team": {
                         "id": 34,
                         "name": "Newcastle",
+                        "founded": 1892,
+                        "venue": "St. James' Park",
                         "logo": "https://media-1.api-sports.io/football/teams/34.png"
                     },
                     "points": 44,
@@ -1273,6 +1283,9 @@
                     "team": {
                         "id": 40,
                         "name": "Liverpool",
+                        "founded": 1892,
+                        "venue": "Anfield",
+                        
                         "logo": "https://media-2.api-sports.io/football/teams/40.png"
                     },
                     "points": 42,
@@ -1599,6 +1612,8 @@
                     "team": {
                         "id": 51,
                         "name": "Brighton",
+                        "founded": 1901,
+                        "venue": "The American Express Community Stadium",
                         "logo": "https://media-1.api-sports.io/football/teams/51.png"
                     },
                     "points": 39,
@@ -1885,6 +1900,8 @@
                     "team": {
                         "id": 36,
                         "name": "Fulham",
+                        "founded": 1879,
+                        "venue": "Craven Cottage",
                         "logo": "https://media-2.api-sports.io/football/teams/36.png"
                     },
                     "points": 39,
@@ -2187,6 +2204,8 @@
                     "team": {
                         "id": 55,
                         "name": "Brentford",
+                        "founded": 1889,
+                        "venue": "Gtech Community Stadium",
                         "logo": "https://media.api-sports.io/football/teams/55.png"
                     },
                     "points": 38,
@@ -2473,6 +2492,8 @@
                     "team": {
                         "id": 49,
                         "name": "Chelsea",
+                        "founded": 1905,
+                        "venue": "Stamford Bridge",
                         "logo": "https://media-2.api-sports.io/football/teams/49.png"
                     },
                     "points": 37,
@@ -2799,6 +2820,8 @@
                     "team": {
                         "id": 66,
                         "name": "Aston Villa",
+                        "founded": 1874,
+                        "venue": "Villa Park",
                         "logo": "https://media.api-sports.io/football/teams/66.png"
                     },
                     "points": 35,
@@ -3061,6 +3084,8 @@
                     "team": {
                         "id": 52,
                         "name": "Crystal Palace",
+                        "founded": 1905,
+                        "venue": "Selhurst Park",
                         "logo": "https://media-1.api-sports.io/football/teams/52.png"
                     },
                     "points": 27,
@@ -3099,6 +3124,256 @@
                             "against": 15
                         }
                     },
+                    "players": [
+                {
+                    "id": 18835,
+                    "name": "Guaita",
+                    "age": 36,
+                    "number": 13,
+                    "position": "Goalkeeper",
+                    "photo": "https://media.api-sports.io/football/players/18835.png"
+                },
+                {
+                    "id": 19143,
+                    "name": "S. Johnstone",
+                    "age": 30,
+                    "number": 21,
+                    "position": "Goalkeeper",
+                    "photo": "https://media-1.api-sports.io/football/players/19143.png"
+                },
+                {
+                    "id": 284549,
+                    "name": "J. Whitworth",
+                    "age": 19,
+                    "number": 41,
+                    "position": "Goalkeeper",
+                    "photo": "https://media.api-sports.io/football/players/284549.png"
+                },
+                {
+                    "id": 284554,
+                    "name": "O.Goodman",
+                    "age": 20,
+                    "number": 63,
+                    "position": "Goalkeeper",
+                    "photo": "https://media-1.api-sports.io/football/players/284554.png"
+                },
+                {
+                    "id": 18847,
+                    "name": "J. Ward",
+                    "age": 34,
+                    "number": 2,
+                    "position": "Defender",
+                    "photo": "https://media-2.api-sports.io/football/players/18847.png"
+                },
+                {
+                    "id": 182201,
+                    "name": "T. Mitchell",
+                    "age": 24,
+                    "number": 3,
+                    "position": "Defender",
+                    "photo": "https://media-1.api-sports.io/football/players/182201.png"
+                },
+                {
+                    "id": 18844,
+                    "name": "J. Tomkins",
+                    "age": 34,
+                    "number": 5,
+                    "position": "Defender",
+                    "photo": "https://media-1.api-sports.io/football/players/18844.png"
+                },
+                {
+                    "id": 67971,
+                    "name": "M. Guéhi",
+                    "age": 23,
+                    "number": 6,
+                    "position": "Defender",
+                    "photo": "https://media-2.api-sports.io/football/players/67971.png"
+                },
+                {
+                    "id": 2729,
+                    "name": "J. Andersen",
+                    "age": 27,
+                    "number": 16,
+                    "position": "Defender",
+                    "photo": "https://media-2.api-sports.io/football/players/2729.png"
+                },
+                {
+                    "id": 18862,
+                    "name": "N. Clyne",
+                    "age": 32,
+                    "number": 17,
+                    "position": "Defender",
+                    "photo": "https://media-2.api-sports.io/football/players/18862.png"
+                },
+                {
+                    "id": 126949,
+                    "name": "C. Richards",
+                    "age": 23,
+                    "number": 26,
+                    "position": "Defender",
+                    "photo": "https://media.api-sports.io/football/players/126949.png"
+                },
+                {
+                    "id": 127605,
+                    "name": "N. Ferguson",
+                    "age": 23,
+                    "number": 36,
+                    "position": "Defender",
+                    "photo": "https://media.api-sports.io/football/players/127605.png"
+                },
+                {
+                    "id": 18853,
+                    "name": "J. Riedewald",
+                    "age": 27,
+                    "number": 44,
+                    "position": "Defender",
+                    "photo": "https://media-1.api-sports.io/football/players/18853.png"
+                },
+                {
+                    "id": 18852,
+                    "name": "L. Milivojević",
+                    "age": 32,
+                    "number": 4,
+                    "position": "Midfielder",
+                    "photo": "https://media-2.api-sports.io/football/players/18852.png"
+                },
+                {
+                    "id": 19617,
+                    "name": "M. Olise",
+                    "age": 22,
+                    "number": 7,
+                    "position": "Midfielder",
+                    "photo": "https://media-2.api-sports.io/football/players/19617.png"
+                },
+                {
+                    "id": 1427,
+                    "name": "A. Lokonga",
+                    "age": 24,
+                    "number": 8,
+                    "position": "Midfielder",
+                    "photo": "https://media-1.api-sports.io/football/players/1427.png"
+                },
+                {
+                    "id": 19586,
+                    "name": "E. Eze",
+                    "age": 25,
+                    "number": 10,
+                    "position": "Midfielder",
+                    "photo": "https://media-1.api-sports.io/football/players/19586.png"
+                },
+                {
+                    "id": 18843,
+                    "name": "J. Schlupp",
+                    "age": 31,
+                    "number": 15,
+                    "position": "Midfielder",
+                    "photo": "https://media-2.api-sports.io/football/players/18843.png"
+                },
+                {
+                    "id": 18849,
+                    "name": "J. McArthur",
+                    "age": 36,
+                    "number": 18,
+                    "position": "Midfielder",
+                    "photo": "https://media-2.api-sports.io/football/players/18849.png"
+                },
+                {
+                    "id": 18806,
+                    "name": "W. Hughes",
+                    "age": 28,
+                    "number": 19,
+                    "position": "Midfielder",
+                    "photo": "https://media.api-sports.io/football/players/18806.png"
+                },
+                {
+                    "id": 3339,
+                    "name": "C. Doucouré",
+                    "age": 23,
+                    "number": 28,
+                    "position": "Midfielder",
+                    "photo": "https://media.api-sports.io/football/players/3339.png"
+                },
+                {
+                    "id": 152418,
+                    "name": "N. Ahamada",
+                    "age": 21,
+                    "number": 29,
+                    "position": "Midfielder",
+                    "photo": "https://media-1.api-sports.io/football/players/152418.png"
+                },
+                {
+                    "id": 106086,
+                    "name": "K. Balmer",
+                    "age": 23,
+                    "number": 43,
+                    "position": "Midfielder",
+                    "photo": "https://media.api-sports.io/football/players/106086.png"
+                },
+                {
+                    "id": 284551,
+                    "name": "J. Wells-Morrison",
+                    "age": 19,
+                    "number": 47,
+                    "position": "Midfielder",
+                    "photo": "https://media.api-sports.io/football/players/284551.png"
+                },
+                {
+                    "id": 304320,
+                    "name": "D. Ozoh",
+                    "age": 18,
+                    "number": 77,
+                    "position": "Midfielder",
+                    "photo": "https://media-1.api-sports.io/football/players/304320.png"
+                },
+                {
+                    "id": 301295,
+                    "name": "K. Rodney",
+                    "age": 19,
+                    "number": 78,
+                    "position": "Midfielder",
+                    "photo": "https://media-1.api-sports.io/football/players/301295.png"
+                },
+                {
+                    "id": 3428,
+                    "name": "J. Ayew",
+                    "age": 32,
+                    "number": 9,
+                    "position": "Attacker",
+                    "photo": "https://media.api-sports.io/football/players/3428.png"
+                },
+                {
+                    "id": 3247,
+                    "name": "W. Zaha",
+                    "age": 31,
+                    "number": 11,
+                    "position": "Attacker",
+                    "photo": "https://media-2.api-sports.io/football/players/3247.png"
+                },
+                {
+                    "id": 25927,
+                    "name": "J. Mateta",
+                    "age": 26,
+                    "number": 14,
+                    "position": "Attacker",
+                    "photo": "https://media-2.api-sports.io/football/players/25927.png"
+                },
+                {
+                    "id": 1135,
+                    "name": "O. Édouard",
+                    "age": 25,
+                    "number": 22,
+                    "position": "Attacker",
+                    "photo": "https://media.api-sports.io/football/players/1135.png"
+                },
+                {
+                    "id": 313636,
+                    "name": "Adler Nascimento",
+                    "age": 19,
+                    "number": null,
+                    "position": "Attacker",
+                    "photo": "https://media-2.api-sports.io/football/players/313636.png"
+                }
+            ],
                     "update": "2023-03-12T00:00:00+00:00"
                 },
                 {
@@ -3106,6 +3381,8 @@
                     "team": {
                         "id": 39,
                         "name": "Wolves",
+                        "founded": 1877,
+                        "venue": "Molineux Stadium",
                         "logo": "https://media.api-sports.io/football/teams/39.png"
                     },
                     "points": 27,
@@ -3400,6 +3677,8 @@
                     "team": {
                         "id": 65,
                         "name": "Nottingham Forest",
+                        "founded": 1865,
+                        "venue": "The City Ground",
                         "logo": "https://media.api-sports.io/football/teams/65.png"
                     },
                     "points": 26,
@@ -3774,6 +4053,8 @@
                     "team": {
                         "id": 45,
                         "name": "Everton",
+                        "founded": 1878,
+                        "venue": "Goodison Park",
                         "logo": "https://media-2.api-sports.io/football/teams/45.png"
                     },
                     "points": 25,
@@ -4068,6 +4349,8 @@
                     "team": {
                         "id": 46,
                         "name": "Leicester",
+                        "founded": 1884,
+                        "venue": "King Power Stadium",
                         "logo": "https://media-2.api-sports.io/football/teams/46.png"
                     },
                     "points": 24,
@@ -4370,6 +4653,8 @@
                     "team": {
                         "id": 48,
                         "name": "West Ham",
+                        "founded": 1895,
+                        "venue": "London Stadium",
                         "logo": "https://media.api-sports.io/football/teams/48.png"
                     },
                     "points": 24,
@@ -4704,6 +4989,8 @@
                     "team": {
                         "id": 35,
                         "name": "Bournemouth",
+                        "founded": 1899,
+                        "venue": "Vitality Stadium",
                         "logo": "https://media.api-sports.io/football/teams/35.png"
                     },
                     "points": 24,
@@ -5038,6 +5325,8 @@
                     "team": {
                         "id": 63,
                         "name": "Leeds",
+                        "founded": 1919,
+                        "venue": "Elland Road",
                         "logo": "https://media.api-sports.io/football/teams/63.png"
                     },
                     "points": 23,
@@ -5380,6 +5669,8 @@
                     "team": {
                         "id": 41,
                         "name": "Southampton",
+                        "founded": 1885,
+                        "venue": "St. Mary's Stadium",
                         "logo": "https://media-2.api-sports.io/football/teams/41.png"
                     },
                     "points": 22,

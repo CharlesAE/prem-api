@@ -13,5 +13,5 @@ export const getStandings = (req, res) => {
             console.log("Error parsing JSON string:", err);
           }
         
-      })
+      });
 }
