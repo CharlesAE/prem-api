@@ -3298,42 +3298,42 @@
                         "logo": "https://media-1.api-sports.io/football/teams/52.png"
                     },
                     "points": 27,
-                    "goalsDiff": -12,
-                    "group": "Premier League",
-                    "form": "LLDDD",
-                    "status": "same",
-                    "description": null,
-                    "all": {
-                        "played": 26,
-                        "win": 6,
-                        "draw": 9,
-                        "lose": 11,
-                        "goals": {
-                            "for": 21,
-                            "against": 33
-                        }
-                    },
-                    "home": {
-                        "played": 14,
-                        "win": 4,
-                        "draw": 5,
-                        "lose": 5,
-                        "goals": {
-                            "for": 12,
-                            "against": 18
-                        }
-                    },
-                    "away": {
-                        "played": 12,
-                        "win": 2,
-                        "draw": 4,
-                        "lose": 6,
-                        "goals": {
-                            "for": 9,
-                            "against": 15
-                        }
-                    },
-                    "players": [
+                            "goalsDiff": -13,
+                            "group": "Premier League",
+                            "form": "LLLDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 27,
+                                "win": 6,
+                                "draw": 9,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 34
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 13,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 16
+                                }
+                            },
+                            "players": [
                 {
                     "id": 18835,
                     "name": "Guaita",
