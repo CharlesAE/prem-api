@@ -1209,43 +1209,43 @@
                         "venue": "St. James' Park",
                         "logo": "https://media-1.api-sports.io/football/teams/34.png"
                     },
-                    "points": 44,
-                    "goalsDiff": 19,
-                    "group": "Premier League",
-                    "form": "WLLDD",
-                    "status": "same",
-                    "description": "Promotion - Europa League (Group Stage)",
-                    "all": {
-                        "played": 25,
-                        "win": 11,
-                        "draw": 11,
-                        "lose": 3,
-                        "goals": {
-                            "for": 37,
-                            "against": 18
-                        }
-                    },
-                    "home": {
-                        "played": 13,
-                        "win": 7,
-                        "draw": 5,
-                        "lose": 1,
-                        "goals": {
-                            "for": 21,
-                            "against": 9
-                        }
-                    },
-                    "away": {
-                        "played": 12,
-                        "win": 4,
-                        "draw": 6,
-                        "lose": 2,
-                        "goals": {
-                            "for": 16,
-                            "against": 9
-                        }
-                    },
-                    "players": [{
+                    "points": 47,
+                            "goalsDiff": 20,
+                            "group": "Premier League",
+                            "form": "WWLLD",
+                            "status": "same",
+                            "description": "Promotion - Europa League (Group Stage)",
+                            "all": {
+                                "played": 26,
+                                "win": 12,
+                                "draw": 11,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 19
+                                }
+                            },
+                            "home": {
+                                "played": 13,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 9
+                                }
+                            },
+                            "away": {
+                                "played": 13,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 10
+                                }
+                            },
+                            "players": [{
                             "id": 18886,
                             "name": "M. Dúbravka",
                             "age": 34,
@@ -2106,7 +2106,7 @@
                     "update": "2023-03-12T00:00:00+00:00"
                 },
                 {
-                    "rank": 8,
+                    "rank": 9,
                     "team": {
                         "id": 36,
                         "name": "Fulham",
@@ -2410,7 +2410,7 @@
                     "update": "2023-03-12T00:00:00+00:00"
                 },
                 {
-                    "rank": 9,
+                    "rank": 8,
                     "team": {
                         "id": 55,
                         "name": "Brentford",
@@ -2418,43 +2418,42 @@
                         "venue": "Gtech Community Stadium",
                         "logo": "https://media.api-sports.io/football/teams/55.png"
                     },
-                    "points": 38,
-                    "goalsDiff": 7,
-                    "group": "Premier League",
-                    "form": "LWDDW",
-                    "status": "same",
-                    "description": null,
-                    "all": {
-                        "played": 25,
-                        "win": 9,
-                        "draw": 11,
-                        "lose": 5,
-                        "goals": {
-                            "for": 40,
-                            "against": 33
-                        }
-                    },
-                    "home": {
-                        "played": 13,
-                        "win": 7,
-                        "draw": 5,
-                        "lose": 1,
-                        "goals": {
-                            "for": 27,
-                            "against": 13
-                        }
-                    },
-                    "away": {
-                        "played": 12,
-                        "win": 2,
-                        "draw": 6,
-                        "lose": 4,
-                        "goals": {
-                            "for": 13,
-                            "against": 20
-                        }
-                    },
-                    "players": [{
+                    "points": 41,
+                            "goalsDiff": 9,
+                            "group": "Premier League",
+                            "form": "WLWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 26,
+                                "win": 10,
+                                "draw": 11,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 33
+                                }
+                            },
+                            "home": {
+                                "played": 13,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 13,
+                                "win": 3,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 20
+                                }
+                            },"players": [{
                             "id": 19465,
                             "name": "David Raya",
                             "age": 28,
@@ -3892,42 +3891,42 @@
                         "logo": "https://media.api-sports.io/football/teams/65.png"
                     },
                     "points": 26,
-                    "goalsDiff": -26,
-                    "group": "Premier League",
-                    "form": "LDLDL",
-                    "status": "same",
-                    "description": null,
-                    "all": {
-                        "played": 26,
-                        "win": 6,
-                        "draw": 8,
-                        "lose": 12,
-                        "goals": {
-                            "for": 21,
-                            "against": 47
-                        }
-                    },
-                    "home": {
-                        "played": 13,
-                        "win": 5,
-                        "draw": 5,
-                        "lose": 3,
-                        "goals": {
-                            "for": 17,
-                            "against": 15
-                        }
-                    },
-                    "away": {
-                        "played": 13,
-                        "win": 1,
-                        "draw": 3,
-                        "lose": 9,
-                        "goals": {
-                            "for": 4,
-                            "against": 32
-                        }
-                    },
-                    "players": [{
+                            "goalsDiff": -27,
+                            "group": "Premier League",
+                            "form": "LLDLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 27,
+                                "win": 6,
+                                "draw": 8,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 13,
+                                "win": 1,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 4,
+                                    "against": 32
+                                }
+                            },
+                            "players": [{
                             "id": 19088,
                             "name": "D. Henderson",
                             "age": 26,
@@ -5884,42 +5883,42 @@
                         "logo": "https://media-2.api-sports.io/football/teams/41.png"
                     },
                     "points": 22,
-                    "goalsDiff": -21,
-                    "group": "Premier League",
-                    "form": "DWLWL",
-                    "status": "same",
-                    "description": "Relegation - Championship",
-                    "all": {
-                        "played": 26,
-                        "win": 6,
-                        "draw": 4,
-                        "lose": 16,
-                        "goals": {
-                            "for": 20,
-                            "against": 41
-                        }
-                    },
-                    "home": {
-                        "played": 12,
-                        "win": 2,
-                        "draw": 3,
-                        "lose": 7,
-                        "goals": {
-                            "for": 11,
-                            "against": 19
-                        }
-                    },
-                    "away": {
-                        "played": 14,
-                        "win": 4,
-                        "draw": 1,
-                        "lose": 9,
-                        "goals": {
-                            "for": 9,
-                            "against": 22
-                        }
-                    },
-                    "players": [{
+                            "goalsDiff": -23,
+                            "group": "Premier League",
+                            "form": "LDWLW",
+                            "status": "same",
+                            "description": "Relegation - Championship",
+                            "all": {
+                                "played": 27,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 13,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 4,
+                                "draw": 1,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 22
+                                }
+                            },
+                            "players": [{
                             "id": 18935,
                             "name": "A. McCarthy",
                             "age": 34,

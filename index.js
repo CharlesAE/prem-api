@@ -7,7 +7,8 @@ const app = express();
 const PORT = 5000;
 app.use(bodyParser.json());
 app.use(cors({
-    origin: ['https://the-prem.netlify.app/', 'https://the-prem.netlify.app' ],
+    origin:  'https://the-prem.netlify.app',
+    //origin: '*',
     methods: ['GET']
 }));
 app.get('/', standingsRoutes);
