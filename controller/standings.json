@@ -1826,43 +1826,43 @@
                         "venue": "The American Express Community Stadium",
                         "logo": "https://media-1.api-sports.io/football/teams/51.png"
                     },
-                    "points": 39,
-                    "goalsDiff": 14,
-                    "group": "Premier League",
-                    "form": "DWLDW",
-                    "status": "same",
-                    "description": null,
-                    "all": {
-                        "played": 24,
-                        "win": 11,
-                        "draw": 6,
-                        "lose": 7,
-                        "goals": {
-                            "for": 45,
-                            "against": 31
-                        }
-                    },
-                    "home": {
-                        "played": 12,
-                        "win": 6,
-                        "draw": 2,
-                        "lose": 4,
-                        "goals": {
-                            "for": 21,
-                            "against": 11
-                        }
-                    },
-                    "away": {
-                        "played": 12,
-                        "win": 5,
-                        "draw": 4,
-                        "lose": 3,
-                        "goals": {
-                            "for": 24,
-                            "against": 20
-                        }
-                    },
-                    "players": [{
+                    "points": 42,
+                            "goalsDiff": 15,
+                            "group": "Premier League",
+                            "form": "WDWLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 25,
+                                "win": 12,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 31
+                                }
+                            },
+                            "home": {
+                                "played": 13,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 20
+                                }
+                            },
+                            "players": [{
                             "id": 18959,
                             "name": "Robert Sánchez",
                             "age": 26,
