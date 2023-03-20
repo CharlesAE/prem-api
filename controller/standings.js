@@ -39,7 +39,7 @@ export const updateAPIData = async ()=> {
   var update = {};
   fs.readFile("./controller/stand.json", (err, jsonFile) => {
     if (err) {
-      console.log("File read failed:", err);
+      console.log("Error :", err);
       return;
     }
     try {
@@ -47,7 +47,6 @@ export const updateAPIData = async ()=> {
         newstandings = standings.standings;
         for (let i = 0; i < obj.length; i++ ) {
           if(newstandings[i].team.id == obj[i].team.id) {
-            console.log(`Updated ${i}`);
             newstandings[i].rank = obj[i].rank;
             newstandings[i].points = obj[i].points;
             newstandings[i].goalsDiff = obj[i].goalsDiff;
@@ -55,14 +54,11 @@ export const updateAPIData = async ()=> {
             newstandings[i].goalsDiff = obj[i].goalsDiff;
             newstandings[i].all = obj[i].all;
           }
-          else {
-            console.log(`Skipped ${i}`);
-          }
         }
         update.standings = newstandings;
         fs.writeFileSync('./controller/stand.json', JSON.stringify(update, null, 2));
       } catch (err) {
-        console.log("Error parsing JSON string:", err);
+        console.log("Error:", err);
       }
   });  
 });
