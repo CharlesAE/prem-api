@@ -20,7 +20,7 @@ app.listen(process.env.PORT || PORT, () => console.log(`Listening on port ${PORT
 
 const rule = new schedule.RecurrenceRule();
 rule.hour = 11;
-rule.minute = 0;
+rule.minute = 25;
 const j = schedule.scheduleJob(rule, async () => {
     console.log('Job runs every day at 11:00AM');
     await updateAPIData().then( () => {
