@@ -338,20 +338,20 @@
         "founded": 1880,
         "logo": "https://media-2.api-sports.io/football/teams/50.png"
       },
-      "points": 61,
-      "goalsDiff": 42,
+      "points": 64,
+      "goalsDiff": 45,
       "group": "Premier League",
-      "form": "WWWDW",
+      "form": "WWWWD",
       "status": "same",
       "description": "Promotion - Champions League (Group Stage)",
       "all": {
-        "played": 27,
-        "win": 19,
+        "played": 28,
+        "win": 20,
         "draw": 4,
         "lose": 4,
         "goals": {
-          "for": 67,
-          "against": 25
+          "for": 71,
+          "against": 26
         }
       },
       "home": {
@@ -1495,19 +1495,19 @@
         "logo": "https://media-2.api-sports.io/football/teams/40.png"
       },
       "points": 42,
-      "goalsDiff": 18,
+      "goalsDiff": 15,
       "group": "Premier League",
-      "form": "LWWDW",
+      "form": "LLWWD",
       "status": "same",
       "description": null,
       "all": {
-        "played": 26,
+        "played": 27,
         "win": 12,
         "draw": 6,
-        "lose": 8,
+        "lose": 9,
         "goals": {
-          "for": 47,
-          "against": 29
+          "for": 48,
+          "against": 33
         }
       },
       "home": {
