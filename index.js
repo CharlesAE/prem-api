@@ -19,10 +19,10 @@ app.all("*", (req, res) =>res.send("You've tried reaching a route that doesn't e
 app.listen(process.env.PORT || PORT, () => console.log(`Listening on port ${PORT}`));
 
 const rule = new schedule.RecurrenceRule();
-rule.hour = 8;
+rule.hour = 11;
 rule.minute = 0;
 const j = schedule.scheduleJob(rule, async () => {
-    console.log('Job runs every day at 8:00AM');
+    console.log('Job runs every day at 11:00AM');
     await updateAPIData().then( () => {
 
     });
