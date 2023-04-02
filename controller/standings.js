@@ -45,17 +45,24 @@ export const updateAPIData = async ()=> {
     try {
         const standings = JSON.parse(jsonFile);
         newstandings = standings.standings;
-        for (let i = 0; i < obj.length; i++ ) {
-          if(newstandings[i].team.id == obj[i].team.id) {
-            newstandings[i].rank = obj[i].rank;
-            newstandings[i].points = obj[i].points;
-            newstandings[i].goalsDiff = obj[i].goalsDiff;
-            newstandings[i].form = obj[i].form;
-            newstandings[i].goalsDiff = obj[i].goalsDiff;
-            newstandings[i].all = obj[i].all;
+
+
+        
+        
+        const newstats = newstandings.map((item1) => {
+          const item2 = obj.find((item2) => item2.team.id === item1.team.id);
+
+          if(item2) {
+            return {...item1, ...item2};
           }
-        }
-        update.standings = newstandings;
+
+          return item1;
+        });
+        console.log(newstats);
+
+        update.standings = newstats;
+
+        //console.log(update.standings)
         fs.writeFileSync('./controller/stand.json', JSON.stringify(update, null, 2));
       } catch (err) {
         console.log("Error:", err);
