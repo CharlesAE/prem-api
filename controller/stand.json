@@ -5,7 +5,7 @@
       "team": {
         "id": 42,
         "name": "Arsenal",
-        "logo": "https://media-2.api-sports.io/football/teams/42.png"
+        "logo": "https://media-3.api-sports.io/football/teams/42.png"
       },
       "points": 72,
       "goalsDiff": 43,
@@ -325,14 +325,14 @@
           "photo": "https://media-2.api-sports.io/football/players/284571.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 2,
       "team": {
         "id": 50,
         "name": "Manchester City",
-        "logo": "https://media-2.api-sports.io/football/teams/50.png"
+        "logo": "https://media-3.api-sports.io/football/teams/50.png"
       },
       "points": 64,
       "goalsDiff": 45,
@@ -580,29 +580,29 @@
           "photo": "https://media-2.api-sports.io/football/players/635.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "team": {
         "id": 33,
         "name": "Manchester United",
-        "logo": "https://media-2.api-sports.io/football/teams/33.png"
+        "logo": "https://media-1.api-sports.io/football/teams/33.png"
       },
       "points": 50,
-      "goalsDiff": 6,
+      "goalsDiff": 4,
       "group": "Premier League",
-      "form": "DLWWD",
+      "form": "LDLWW",
       "status": "same",
       "description": "Promotion - Champions League (Group Stage: )",
       "all": {
-        "played": 26,
+        "played": 27,
         "win": 15,
         "draw": 5,
-        "lose": 6,
+        "lose": 7,
         "goals": {
           "for": 41,
-          "against": 35
+          "against": 37
         }
       },
       "home": {
@@ -616,240 +616,288 @@
         }
       },
       "away": {
-        "played": 13,
+        "played": 14,
         "win": 6,
         "draw": 2,
-        "lose": 5,
+        "lose": 6,
         "goals": {
           "for": 17,
-          "against": 27
+          "against": 29
         }
       },
       "players": [
         {
-          "id": 25004,
-          "name": "S. Ortega",
-          "age": 31,
-          "number": 18,
+          "id": 882,
+          "name": "David de Gea",
+          "age": 33,
+          "number": 1,
           "position": "Goalkeeper",
-          "photo": "https://media-2.api-sports.io/football/players/25004.png"
+          "photo": "https://media.api-sports.io/football/players/882.png"
         },
         {
-          "id": 617,
-          "name": "Ederson",
+          "id": 2931,
+          "name": "T. Heaton",
+          "age": 37,
+          "number": 22,
+          "position": "Goalkeeper",
+          "photo": "https://media-2.api-sports.io/football/players/2931.png"
+        },
+        {
+          "id": 20319,
+          "name": "N. Bishop",
+          "age": 24,
+          "number": 30,
+          "position": "Goalkeeper",
+          "photo": "https://media-1.api-sports.io/football/players/20319.png"
+        },
+        {
+          "id": 2930,
+          "name": "J. Butland",
           "age": 30,
           "number": 31,
           "position": "Goalkeeper",
-          "photo": "https://media.api-sports.io/football/players/617.png"
+          "photo": "https://media.api-sports.io/football/players/2930.png"
         },
         {
-          "id": 19197,
-          "name": "S. Carson",
-          "age": 38,
-          "number": 33,
-          "position": "Goalkeeper",
-          "photo": "https://media-1.api-sports.io/football/players/19197.png"
-        },
-        {
-          "id": 627,
-          "name": "K. Walker",
-          "age": 33,
+          "id": 889,
+          "name": "V. Lindelöf",
+          "age": 29,
           "number": 2,
           "position": "Defender",
-          "photo": "https://media-2.api-sports.io/football/players/627.png"
+          "photo": "https://media-1.api-sports.io/football/players/889.png"
         },
         {
-          "id": 567,
-          "name": "Rúben Dias",
-          "age": 26,
-          "number": 3,
+          "id": 888,
+          "name": "P. Jones",
+          "age": 31,
+          "number": 4,
           "position": "Defender",
-          "photo": "https://media-1.api-sports.io/football/players/567.png"
+          "photo": "https://media-2.api-sports.io/football/players/888.png"
         },
         {
-          "id": 626,
-          "name": "J. Stones",
-          "age": 29,
+          "id": 2935,
+          "name": "H. Maguire",
+          "age": 30,
           "number": 5,
           "position": "Defender",
-          "photo": "https://media-2.api-sports.io/football/players/626.png"
+          "photo": "https://media-2.api-sports.io/football/players/2935.png"
         },
         {
-          "id": 18861,
-          "name": "N. Aké",
-          "age": 28,
+          "id": 2467,
+          "name": "Lisandro Martínez",
+          "age": 25,
           "number": 6,
           "position": "Defender",
-          "photo": "https://media-2.api-sports.io/football/players/18861.png"
+          "photo": "https://media-2.api-sports.io/football/players/2467.png"
         },
         {
-          "id": 622,
-          "name": "Aymeric Laporte",
-          "age": 29,
-          "number": 14,
+          "id": 37145,
+          "name": "T. Malacia",
+          "age": 24,
+          "number": 12,
           "position": "Defender",
-          "photo": "https://media-2.api-sports.io/football/players/622.png"
+          "photo": "https://media-1.api-sports.io/football/players/37145.png"
         },
         {
-          "id": 5,
-          "name": "M. Akanji",
+          "id": 742,
+          "name": "R. Varane",
+          "age": 30,
+          "number": 19,
+          "position": "Defender",
+          "photo": "https://media-1.api-sports.io/football/players/742.png"
+        },
+        {
+          "id": 886,
+          "name": "Diogo Dalot",
+          "age": 24,
+          "number": 20,
+          "position": "Defender",
+          "photo": "https://media-2.api-sports.io/football/players/886.png"
+        },
+        {
+          "id": 891,
+          "name": "L. Shaw",
           "age": 28,
-          "number": 25,
+          "number": 23,
           "position": "Defender",
-          "photo": "https://media-2.api-sports.io/football/players/5.png"
+          "photo": "https://media-1.api-sports.io/football/players/891.png"
         },
         {
-          "id": 284230,
-          "name": "R. Lewis",
-          "age": 19,
-          "number": 82,
+          "id": 18846,
+          "name": "A. Wan-Bissaka",
+          "age": 26,
+          "number": 29,
           "position": "Defender",
-          "photo": "https://media-2.api-sports.io/football/players/284230.png"
+          "photo": "https://media-2.api-sports.io/football/players/18846.png"
         },
         {
-          "id": 284356,
-          "name": "S. Charles",
+          "id": 138806,
+          "name": "B. Williams",
+          "age": 23,
+          "number": 33,
+          "position": "Defender",
+          "photo": "https://media-1.api-sports.io/football/players/138806.png"
+        },
+        {
+          "id": 284363,
+          "name": "R. Bennett",
           "age": 20,
-          "number": null,
+          "number": 66,
           "position": "Defender",
-          "photo": "https://media-1.api-sports.io/football/players/284356.png"
+          "photo": "https://media.api-sports.io/football/players/284363.png"
         },
         {
-          "id": 19130,
-          "name": "K. Phillips",
-          "age": 28,
-          "number": 4,
-          "position": "Midfielder",
-          "photo": "https://media-2.api-sports.io/football/players/19130.png"
-        },
-        {
-          "id": 633,
-          "name": "İ. Gündoğan",
-          "age": 33,
+          "id": 1485,
+          "name": "Bruno Fernandes",
+          "age": 29,
           "number": 8,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/633.png"
+          "photo": "https://media-2.api-sports.io/football/players/1485.png"
         },
         {
-          "id": 19187,
-          "name": "J. Grealish",
-          "age": 28,
-          "number": 10,
+          "id": 174,
+          "name": "C. Eriksen",
+          "age": 31,
+          "number": 14,
           "position": "Midfielder",
-          "photo": "https://media-1.api-sports.io/football/players/19187.png"
+          "photo": "https://media-1.api-sports.io/football/players/174.png"
         },
         {
-          "id": 44,
-          "name": "Rodri",
-          "age": 27,
-          "number": 16,
+          "id": 1159,
+          "name": "M. Sabitzer",
+          "age": 29,
+          "number": 15,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/44.png"
+          "photo": "https://media.api-sports.io/football/players/1159.png"
         },
         {
-          "id": 629,
-          "name": "K. De Bruyne",
-          "age": 32,
+          "id": 905,
+          "name": "Fred",
+          "age": 30,
           "number": 17,
           "position": "Midfielder",
-          "photo": "https://media-2.api-sports.io/football/players/629.png"
+          "photo": "https://media.api-sports.io/football/players/905.png"
         },
         {
-          "id": 636,
-          "name": "Bernardo Silva",
-          "age": 29,
-          "number": 20,
+          "id": 747,
+          "name": "Casemiro",
+          "age": 31,
+          "number": 18,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/636.png"
+          "photo": "https://media-2.api-sports.io/football/players/747.png"
         },
         {
-          "id": 23,
-          "name": "Sergio Gómez",
-          "age": 23,
-          "number": 21,
+          "id": 70078,
+          "name": "F. Pellistri",
+          "age": 22,
+          "number": 28,
           "position": "Midfielder",
-          "photo": "https://media-2.api-sports.io/football/players/23.png"
+          "photo": "https://media.api-sports.io/football/players/70078.png"
         },
         {
-          "id": 288699,
-          "name": "M. Perrone",
+          "id": 547,
+          "name": "D. van de Beek",
+          "age": 26,
+          "number": 34,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/547.png"
+        },
+        {
+          "id": 903,
+          "name": "S. McTominay",
+          "age": 27,
+          "number": 39,
+          "position": "Midfielder",
+          "photo": "https://media-2.api-sports.io/football/players/903.png"
+        },
+        {
+          "id": 284295,
+          "name": "Zidane Iqbal",
           "age": 20,
-          "number": 32,
+          "number": 55,
           "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/288699.png"
+          "photo": "https://media.api-sports.io/football/players/284295.png"
         },
         {
-          "id": 631,
-          "name": "P. Foden",
-          "age": 23,
-          "number": 47,
+          "id": 284322,
+          "name": "K. Mainoo",
+          "age": 18,
+          "number": 73,
           "position": "Midfielder",
-          "photo": "https://media-2.api-sports.io/football/players/631.png"
+          "photo": "https://media.api-sports.io/football/players/284322.png"
         },
         {
-          "id": 152982,
-          "name": "C. Palmer",
-          "age": 21,
-          "number": 80,
-          "position": "Midfielder",
-          "photo": "https://media-1.api-sports.io/football/players/152982.png"
-        },
-        {
-          "id": 144733,
-          "name": "B. Knight",
-          "age": 21,
-          "number": 96,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/144733.png"
-        },
-        {
-          "id": 288109,
-          "name": "A. Robertson",
-          "age": 20,
-          "number": null,
-          "position": "Midfielder",
-          "photo": "https://media.api-sports.io/football/players/288109.png"
-        },
-        {
-          "id": 1100,
-          "name": "E. Haaland",
-          "age": 23,
+          "id": 908,
+          "name": "A. Martial",
+          "age": 28,
           "number": 9,
           "position": "Attacker",
-          "photo": "https://media-2.api-sports.io/football/players/1100.png"
+          "photo": "https://media-1.api-sports.io/football/players/908.png"
         },
         {
-          "id": 6009,
-          "name": "J. Álvarez",
+          "id": 909,
+          "name": "M. Rashford",
+          "age": 26,
+          "number": 10,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/909.png"
+        },
+        {
+          "id": 9971,
+          "name": "Antony",
           "age": 23,
-          "number": 19,
+          "number": 21,
           "position": "Attacker",
-          "photo": "https://media-2.api-sports.io/football/players/6009.png"
+          "photo": "https://media-2.api-sports.io/football/players/9971.png"
         },
         {
-          "id": 635,
-          "name": "R. Mahrez",
-          "age": 32,
-          "number": 26,
+          "id": 18,
+          "name": "J. Sancho",
+          "age": 23,
+          "number": 25,
           "position": "Attacker",
-          "photo": "https://media-2.api-sports.io/football/players/635.png"
+          "photo": "https://media-2.api-sports.io/football/players/18.png"
+        },
+        {
+          "id": 25416,
+          "name": "W. Weghorst",
+          "age": 31,
+          "number": 27,
+          "position": "Attacker",
+          "photo": "https://media-1.api-sports.io/football/players/25416.png"
+        },
+        {
+          "id": 153430,
+          "name": "A. Elanga",
+          "age": 21,
+          "number": 36,
+          "position": "Attacker",
+          "photo": "https://media-2.api-sports.io/football/players/153430.png"
+        },
+        {
+          "id": 284324,
+          "name": "A. Garnacho",
+          "age": 19,
+          "number": 49,
+          "position": "Attacker",
+          "photo": "https://media-2.api-sports.io/football/players/284324.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "team": {
         "id": 47,
         "name": "Tottenham",
-        "logo": "https://media-1.api-sports.io/football/teams/47.png"
+        "logo": "https://media-2.api-sports.io/football/teams/47.png"
       },
       "points": 49,
       "goalsDiff": 12,
       "group": "Premier League",
       "form": "DWLWW",
       "status": "same",
-      "description": "Promotion - Champions League (Group Stage: )",
+      "description": "Promotion - Europa League (Group Stage: )",
       "all": {
         "played": 28,
         "win": 15,
@@ -1186,38 +1234,38 @@
           "photo": "https://media-1.api-sports.io/football/players/393195.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "team": {
         "id": 34,
         "name": "Newcastle",
-        "logo": "https://media-2.api-sports.io/football/teams/34.png"
+        "logo": "https://media-3.api-sports.io/football/teams/34.png"
       },
-      "points": 47,
-      "goalsDiff": 20,
+      "points": 50,
+      "goalsDiff": 22,
       "group": "Premier League",
-      "form": "WWLLD",
+      "form": "WWWLL",
       "status": "same",
-      "description": "Promotion - Europa League (Group Stage: )",
+      "description": "Promotion - Champions League (Group Stage: )",
       "all": {
-        "played": 26,
-        "win": 12,
+        "played": 27,
+        "win": 13,
         "draw": 11,
         "lose": 3,
         "goals": {
-          "for": 39,
+          "for": 41,
           "against": 19
         }
       },
       "home": {
-        "played": 13,
-        "win": 7,
+        "played": 14,
+        "win": 8,
         "draw": 5,
         "lose": 1,
         "goals": {
-          "for": 21,
+          "for": 23,
           "against": 9
         }
       },
@@ -1473,14 +1521,14 @@
           "photo": "https://media.api-sports.io/football/players/2864.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 8,
       "team": {
         "id": 40,
         "name": "Liverpool",
-        "logo": "https://media-1.api-sports.io/football/teams/40.png"
+        "logo": "https://media-3.api-sports.io/football/teams/40.png"
       },
       "points": 42,
       "goalsDiff": 15,
@@ -1800,7 +1848,7 @@
           "photo": "https://media-2.api-sports.io/football/players/152977.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 6,
@@ -1814,7 +1862,7 @@
       "group": "Premier League",
       "form": "DWDWL",
       "status": "same",
-      "description": null,
+      "description": "Promotion - Europa Conference League (Qualification: )",
       "all": {
         "played": 26,
         "win": 12,
@@ -2087,14 +2135,14 @@
           "photo": "https://media.api-sports.io/football/players/129643.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 10,
       "team": {
         "id": 36,
         "name": "Fulham",
-        "logo": "https://media-1.api-sports.io/football/teams/36.png"
+        "logo": "https://media-3.api-sports.io/football/teams/36.png"
       },
       "points": 39,
       "goalsDiff": 0,
@@ -2390,7 +2438,7 @@
           "photo": "https://media.api-sports.io/football/players/378868.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 7,
@@ -2677,14 +2725,14 @@
           "photo": "https://media-1.api-sports.io/football/players/153261.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 11,
       "team": {
         "id": 49,
         "name": "Chelsea",
-        "logo": "https://media-1.api-sports.io/football/teams/49.png"
+        "logo": "https://media-2.api-sports.io/football/teams/49.png"
       },
       "points": 38,
       "goalsDiff": -1,
@@ -3004,14 +3052,14 @@
           "photo": "https://media-1.api-sports.io/football/players/136723.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 9,
       "team": {
         "id": 66,
         "name": "Aston Villa",
-        "logo": "https://media-1.api-sports.io/football/teams/66.png"
+        "logo": "https://media-3.api-sports.io/football/teams/66.png"
       },
       "points": 41,
       "goalsDiff": -2,
@@ -3267,14 +3315,14 @@
           "photo": "https://media.api-sports.io/football/players/312260.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 12,
       "team": {
         "id": 52,
         "name": "Crystal Palace",
-        "logo": "https://media-3.api-sports.io/football/teams/52.png"
+        "logo": "https://media-1.api-sports.io/football/teams/52.png"
       },
       "points": 30,
       "goalsDiff": -15,
@@ -3562,14 +3610,14 @@
           "photo": "https://media-2.api-sports.io/football/players/313636.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 13,
       "team": {
         "id": 39,
         "name": "Wolves",
-        "logo": "https://media-3.api-sports.io/football/teams/39.png"
+        "logo": "https://media-2.api-sports.io/football/teams/39.png"
       },
       "points": 28,
       "goalsDiff": -19,
@@ -3857,14 +3905,14 @@
           "photo": "https://media-2.api-sports.io/football/players/313636.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "team": {
         "id": 65,
         "name": "Nottingham Forest",
-        "logo": "https://media-2.api-sports.io/football/teams/65.png"
+        "logo": "https://media-1.api-sports.io/football/teams/65.png"
       },
       "points": 27,
       "goalsDiff": -27,
@@ -4232,10 +4280,10 @@
           "photo": "https://media-1.api-sports.io/football/players/327602.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "team": {
         "id": 45,
         "name": "Everton",
@@ -4246,7 +4294,7 @@
       "group": "Premier League",
       "form": "DWDLL",
       "status": "same",
-      "description": null,
+      "description": "Relegation - Championship",
       "all": {
         "played": 28,
         "win": 6,
@@ -4527,14 +4575,14 @@
           "photo": "https://media-2.api-sports.io/football/players/138786.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "team": {
         "id": 46,
         "name": "Leicester",
-        "logo": "https://media-2.api-sports.io/football/teams/46.png"
+        "logo": "https://media-3.api-sports.io/football/teams/46.png"
       },
       "points": 25,
       "goalsDiff": -10,
@@ -4830,38 +4878,38 @@
           "photo": "https://media.api-sports.io/football/players/691.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
-      "rank": 19,
+      "rank": 14,
       "team": {
         "id": 48,
         "name": "West Ham",
-        "logo": "https://media-3.api-sports.io/football/teams/48.png"
+        "logo": "https://media-1.api-sports.io/football/teams/48.png"
       },
-      "points": 24,
-      "goalsDiff": -10,
+      "points": 27,
+      "goalsDiff": -9,
       "group": "Premier League",
-      "form": "DLWLD",
+      "form": "WDLWL",
       "status": "same",
-      "description": "Relegation - Championship",
+      "description": null,
       "all": {
-        "played": 26,
-        "win": 6,
+        "played": 27,
+        "win": 7,
         "draw": 6,
         "lose": 14,
         "goals": {
-          "for": 24,
+          "for": 25,
           "against": 34
         }
       },
       "home": {
-        "played": 13,
-        "win": 5,
+        "played": 14,
+        "win": 6,
         "draw": 3,
         "lose": 5,
         "goals": {
-          "for": 17,
+          "for": 18,
           "against": 14
         }
       },
@@ -5165,14 +5213,14 @@
           "photo": "https://media-2.api-sports.io/football/players/284409.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "team": {
         "id": 35,
         "name": "Bournemouth",
-        "logo": "https://media-3.api-sports.io/football/teams/35.png"
+        "logo": "https://media-1.api-sports.io/football/teams/35.png"
       },
       "points": 27,
       "goalsDiff": -28,
@@ -5500,14 +5548,14 @@
           "photo": "https://media-2.api-sports.io/football/players/382160.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "team": {
         "id": 63,
         "name": "Leeds",
-        "logo": "https://media-3.api-sports.io/football/teams/63.png"
+        "logo": "https://media-1.api-sports.io/football/teams/63.png"
       },
       "points": 26,
       "goalsDiff": -12,
@@ -5843,29 +5891,29 @@
           "photo": "https://media.api-sports.io/football/players/313059.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     },
     {
       "rank": 20,
       "team": {
         "id": 41,
         "name": "Southampton",
-        "logo": "https://media-2.api-sports.io/football/teams/41.png"
+        "logo": "https://media-1.api-sports.io/football/teams/41.png"
       },
       "points": 23,
-      "goalsDiff": -23,
+      "goalsDiff": -24,
       "group": "Premier League",
-      "form": "DLDWL",
+      "form": "LDLDW",
       "status": "same",
       "description": "Relegation - Championship",
       "all": {
-        "played": 28,
+        "played": 29,
         "win": 6,
         "draw": 5,
-        "lose": 17,
+        "lose": 18,
         "goals": {
           "for": 23,
-          "against": 46
+          "against": 47
         }
       },
       "home": {
@@ -5879,13 +5927,13 @@
         }
       },
       "away": {
-        "played": 14,
+        "played": 15,
         "win": 4,
         "draw": 1,
-        "lose": 9,
+        "lose": 10,
         "goals": {
           "for": 9,
-          "against": 22
+          "against": 23
         }
       },
       "players": [
@@ -6162,7 +6210,7 @@
           "photo": "https://media.api-sports.io/football/players/303460.png"
         }
       ],
-      "update": "2023-04-01T00:00:00+00:00"
+      "update": "2023-04-03T00:00:00+00:00"
     }
   ]
 }

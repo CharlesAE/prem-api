@@ -19,8 +19,8 @@ app.all("*", (req, res) =>res.send("You've tried reaching a route that doesn't e
 app.listen(process.env.PORT || PORT, () => console.log(`Listening on port ${PORT}`));
 
 const rule = new schedule.RecurrenceRule();
-rule.hour = 11;
-rule.minute = 45;
+rule.hour = 8;
+rule.minute = 00;
 
 const j = schedule.scheduleJob(rule, async () => {
     console.log('Job runs every day at 8:00AM');
