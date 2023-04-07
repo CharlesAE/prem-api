@@ -46,19 +46,15 @@ export const updateAPIData = async ()=> {
         const standings = JSON.parse(jsonFile);
         newstandings = standings.standings;
 
+        const newstats = newstandings.map((current) => {
+          const updated = obj.find((updated) => updated.team.id === current.team.id);
 
-        
-        
-        const newstats = newstandings.map((item1) => {
-          const item2 = obj.find((item2) => item2.team.id === item1.team.id);
-
-          if(item2) {
-            return {...item1, ...item2};
+          if(updated) {
+            return {...current, ...updated};
           }
 
-          return item1;
+          return current;
         });
-        console.log(newstats);
 
         update.standings = newstats;
 
