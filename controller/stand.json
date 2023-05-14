@@ -8,29 +8,29 @@
         "logo": "https://media-2.api-sports.io/football/teams/42.png"
       },
       "points": 81,
-      "goalsDiff": 44,
+      "goalsDiff": 41,
       "group": "Premier League",
-      "form": "WWLDD",
+      "form": "LWWLD",
       "status": "same",
       "description": "Promotion - Champions League (Group Stage: )",
       "all": {
-        "played": 35,
+        "played": 36,
         "win": 25,
         "draw": 6,
-        "lose": 4,
+        "lose": 5,
         "goals": {
           "for": 83,
-          "against": 39
+          "against": 42
         }
       },
       "home": {
-        "played": 17,
+        "played": 18,
         "win": 13,
         "draw": 3,
-        "lose": 1,
+        "lose": 2,
         "goals": {
           "for": 48,
-          "against": 22
+          "against": 25
         }
       },
       "away": {
@@ -334,19 +334,19 @@
         "name": "Manchester City",
         "logo": "https://media-1.api-sports.io/football/teams/50.png"
       },
-      "points": 82,
-      "goalsDiff": 58,
+      "points": 85,
+      "goalsDiff": 61,
       "group": "Premier League",
       "form": "WWWWW",
       "status": "same",
       "description": "Promotion - Champions League (Group Stage: )",
       "all": {
-        "played": 34,
-        "win": 26,
+        "played": 35,
+        "win": 27,
         "draw": 4,
         "lose": 4,
         "goals": {
-          "for": 89,
+          "for": 92,
           "against": 31
         }
       },
@@ -361,12 +361,12 @@
         }
       },
       "away": {
-        "played": 16,
-        "win": 10,
+        "played": 17,
+        "win": 11,
         "draw": 3,
         "lose": 3,
         "goals": {
-          "for": 30,
+          "for": 33,
           "against": 14
         }
       },
@@ -587,7 +587,7 @@
       "team": {
         "id": 33,
         "name": "Manchester United",
-        "logo": "https://media-3.api-sports.io/football/teams/33.png"
+        "logo": "https://media-1.api-sports.io/football/teams/33.png"
       },
       "points": 66,
       "goalsDiff": 10,
@@ -886,18 +886,18 @@
       "update": "2023-05-14T00:00:00+00:00"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "team": {
         "id": 47,
         "name": "Tottenham",
-        "logo": "https://media-3.api-sports.io/football/teams/47.png"
+        "logo": "https://media-1.api-sports.io/football/teams/47.png"
       },
       "points": 57,
       "goalsDiff": 6,
       "group": "Premier League",
       "form": "LWLDL",
       "status": "same",
-      "description": "Promotion - Europa League (Group Stage: )",
+      "description": "Promotion - Europa Conference League (Qualification: )",
       "all": {
         "played": 36,
         "win": 17,
@@ -1241,7 +1241,7 @@
       "team": {
         "id": 34,
         "name": "Newcastle",
-        "logo": "https://media-1.api-sports.io/football/teams/34.png"
+        "logo": "https://media-3.api-sports.io/football/teams/34.png"
       },
       "points": 66,
       "goalsDiff": 32,
@@ -1528,7 +1528,7 @@
       "team": {
         "id": 40,
         "name": "Liverpool",
-        "logo": "https://media-3.api-sports.io/football/teams/40.png"
+        "logo": "https://media-2.api-sports.io/football/teams/40.png"
       },
       "points": 62,
       "goalsDiff": 25,
@@ -1851,25 +1851,25 @@
       "update": "2023-05-14T00:00:00+00:00"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "team": {
         "id": 51,
         "name": "Brighton",
         "logo": "https://media-2.api-sports.io/football/teams/51.png"
       },
-      "points": 55,
-      "goalsDiff": 18,
+      "points": 58,
+      "goalsDiff": 21,
       "group": "Premier League",
-      "form": "LWWLW",
+      "form": "WLWWL",
       "status": "same",
-      "description": null,
+      "description": "Promotion - Europa League (Group Stage: )",
       "all": {
-        "played": 33,
-        "win": 16,
+        "played": 34,
+        "win": 17,
         "draw": 7,
         "lose": 10,
         "goals": {
-          "for": 63,
+          "for": 66,
           "against": 45
         }
       },
@@ -1884,12 +1884,12 @@
         }
       },
       "away": {
-        "played": 16,
-        "win": 7,
+        "played": 17,
+        "win": 8,
         "draw": 4,
         "lose": 5,
         "goals": {
-          "for": 30,
+          "for": 33,
           "against": 26
         }
       },
@@ -2138,11 +2138,11 @@
       "update": "2023-05-14T00:00:00+00:00"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "team": {
         "id": 36,
         "name": "Fulham",
-        "logo": "https://media-2.api-sports.io/football/teams/36.png"
+        "logo": "https://media-3.api-sports.io/football/teams/36.png"
       },
       "points": 51,
       "goalsDiff": 3,
@@ -2441,35 +2441,35 @@
       "update": "2023-05-14T00:00:00+00:00"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "team": {
         "id": 55,
         "name": "Brentford",
-        "logo": "https://media-2.api-sports.io/football/teams/55.png"
+        "logo": "https://media-1.api-sports.io/football/teams/55.png"
       },
-      "points": 50,
-      "goalsDiff": 7,
+      "points": 53,
+      "goalsDiff": 9,
       "group": "Premier League",
-      "form": "LWWDL",
+      "form": "WLWWD",
       "status": "same",
       "description": null,
       "all": {
-        "played": 35,
-        "win": 12,
+        "played": 36,
+        "win": 13,
         "draw": 14,
         "lose": 9,
         "goals": {
-          "for": 52,
+          "for": 54,
           "against": 45
         }
       },
       "home": {
-        "played": 17,
-        "win": 8,
+        "played": 18,
+        "win": 9,
         "draw": 7,
         "lose": 2,
         "goals": {
-          "for": 32,
+          "for": 34,
           "against": 18
         }
       },
@@ -3055,18 +3055,18 @@
       "update": "2023-05-14T00:00:00+00:00"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": {
         "id": 66,
         "name": "Aston Villa",
-        "logo": "https://media-2.api-sports.io/football/teams/66.png"
+        "logo": "https://media-1.api-sports.io/football/teams/66.png"
       },
       "points": 57,
       "goalsDiff": 4,
       "group": "Premier League",
       "form": "WLLWD",
       "status": "same",
-      "description": "Promotion - Europa Conference League (Qualification: )",
+      "description": null,
       "all": {
         "played": 36,
         "win": 17,
@@ -3322,7 +3322,7 @@
       "team": {
         "id": 52,
         "name": "Crystal Palace",
-        "logo": "https://media-1.api-sports.io/football/teams/52.png"
+        "logo": "https://media-3.api-sports.io/football/teams/52.png"
       },
       "points": 43,
       "goalsDiff": -9,
@@ -3617,7 +3617,7 @@
       "team": {
         "id": 39,
         "name": "Wolves",
-        "logo": "https://media-2.api-sports.io/football/teams/39.png"
+        "logo": "https://media-3.api-sports.io/football/teams/39.png"
       },
       "points": 40,
       "goalsDiff": -22,
@@ -3912,7 +3912,7 @@
       "team": {
         "id": 65,
         "name": "Nottingham Forest",
-        "logo": "https://media-3.api-sports.io/football/teams/65.png"
+        "logo": "https://media-1.api-sports.io/football/teams/65.png"
       },
       "points": 34,
       "goalsDiff": -31,
@@ -4290,29 +4290,29 @@
         "logo": "https://media-1.api-sports.io/football/teams/45.png"
       },
       "points": 32,
-      "goalsDiff": -21,
+      "goalsDiff": -24,
       "group": "Premier League",
-      "form": "WDLDL",
+      "form": "LWDLD",
       "status": "same",
       "description": null,
       "all": {
-        "played": 35,
+        "played": 36,
         "win": 7,
         "draw": 11,
-        "lose": 17,
+        "lose": 18,
         "goals": {
           "for": 32,
-          "against": 53
+          "against": 56
         }
       },
       "home": {
-        "played": 17,
+        "played": 18,
         "win": 5,
         "draw": 3,
-        "lose": 9,
+        "lose": 10,
         "goals": {
           "for": 15,
-          "against": 24
+          "against": 27
         }
       },
       "away": {
@@ -4885,22 +4885,22 @@
       "team": {
         "id": 48,
         "name": "West Ham",
-        "logo": "https://media-2.api-sports.io/football/teams/48.png"
+        "logo": "https://media-3.api-sports.io/football/teams/48.png"
       },
       "points": 37,
-      "goalsDiff": -12,
+      "goalsDiff": -14,
       "group": "Premier League",
-      "form": "WLLLW",
+      "form": "LWLLL",
       "status": "same",
       "description": null,
       "all": {
-        "played": 35,
+        "played": 36,
         "win": 10,
         "draw": 7,
-        "lose": 18,
+        "lose": 19,
         "goals": {
           "for": 38,
-          "against": 50
+          "against": 52
         }
       },
       "home": {
@@ -4914,13 +4914,13 @@
         }
       },
       "away": {
-        "played": 17,
+        "played": 18,
         "win": 3,
         "draw": 3,
-        "lose": 11,
+        "lose": 12,
         "goals": {
           "for": 15,
-          "against": 27
+          "against": 29
         }
       },
       "players": [
@@ -5220,7 +5220,7 @@
       "team": {
         "id": 35,
         "name": "Bournemouth",
-        "logo": "https://media-3.api-sports.io/football/teams/35.png"
+        "logo": "https://media-2.api-sports.io/football/teams/35.png"
       },
       "points": 39,
       "goalsDiff": -32,
@@ -5555,7 +5555,7 @@
       "team": {
         "id": 63,
         "name": "Leeds",
-        "logo": "https://media-2.api-sports.io/football/teams/63.png"
+        "logo": "https://media-3.api-sports.io/football/teams/63.png"
       },
       "points": 31,
       "goalsDiff": -25,
